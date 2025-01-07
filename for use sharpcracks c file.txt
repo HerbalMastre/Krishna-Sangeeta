@@ -1,0 +1,9 @@
+MUST JOIN @SHARPCRACKS AFTER SHARE MY FILE GIVE CREDIT PROPERLY
+COMMAND - 
+
+sudo apt update
+sudo apt install build-essential
+gcc -o sharp sharp.c -lpthread
+
+FUCK OFF ALL HEATERS 
+SHARE WITH CREDIT
